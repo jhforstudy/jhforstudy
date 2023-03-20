@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jhforstudy/jhforstudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🔭 [Portfolio](https://jhforstudy.notion.site/Portfolio-of-Me-2ffe6bec76f449038c0e11a85a96b68c)
+### 🌱 I’m currently learning ...
+- Problem solving (C++, Python)
+- System Programming, Operation System, Computer Architecture
+- Data Structure
+### 😄 Interest
+- Autonomous driving
+- Computer Vision - Object Detection
+- ADAS (Advanced Driver Assistance System)
+
+[![jhforstudy's github stats](https://github-readme-stats.vercel.app/api?username=jhforstudy)](https://github.com/anuraghazra/github-readme-stats) 
